@@ -21,17 +21,13 @@ Whether you're making professional, personal, or academic decisions, this analyz
 
 🖥️ Dashboard 
 
- ![dashboard](https://github.com/user-attachments/assets/8410ff5d-c870-4ed5-a020-4f63e92fedbd)
 
 📋 Matrix Insights
 
- ![image](https://github.com/user-attachments/assets/93596c75-3b02-44a6-989e-10527f6432f6)
 
 🧾 PDF Export
 
- ![image](https://github.com/user-attachments/assets/593994df-8835-4f65-9b9c-3ae91f0899fc)
-
-
+ 
 ---
 
 ## ✨ Key Features
